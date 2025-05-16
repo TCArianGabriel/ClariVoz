@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528162721020",
+    "project_id": "clarivoz-3bc86",
+    "storage_bucket": "clarivoz-3bc86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528162721020:android:7eb3bd90873344335b9b79",
+        "android_client_info": {
+          "package_name": "org.dsm.clarivoz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfIhN7uKZQqIN7qqGXwBFUzNECMjBmAUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
